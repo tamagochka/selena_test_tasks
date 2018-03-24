@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * удаление цифр из текста
+ */
 public class task_6 {
 
     public static void main(String[] args) {

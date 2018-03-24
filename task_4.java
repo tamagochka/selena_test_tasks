@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * нахождение НОД и НОК для двух чисел
+ */
 public class task_4 {
 
     private static int nod(int previous, int next) {

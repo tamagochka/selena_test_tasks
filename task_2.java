@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * рекурсивное вычисление чисел Фибоначи от 1 до N
+ */
 public class task_2 {
 
     private static void fibonacci(int previous, int next, int condition) {

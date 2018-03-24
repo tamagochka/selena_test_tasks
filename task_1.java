@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * вычисление простых чисел от 1 до N
+ */
 public class task_1 {
 
     public static void main(String[] args) {
